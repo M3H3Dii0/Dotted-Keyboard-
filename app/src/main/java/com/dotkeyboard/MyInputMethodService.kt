@@ -1,4 +1,4 @@
-package com.dottedkeyboard
+package com.dotkeyboard
 
 import android.graphics.Color
 import android.graphics.drawable.GradientDrawable
